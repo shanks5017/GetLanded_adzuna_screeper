@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/adzuna/:match*",
+            "destination": "https://api.adzuna.com/:match*"
+        }
+    ]
+}
